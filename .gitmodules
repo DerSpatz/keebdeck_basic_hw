@@ -1,0 +1,9 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/arturo182/kicad-library.git
+[submodule "modules"]
+	path = modules
+	url = https://github.com/arturo182/kicad-modules.git
+[submodule "keebdeck_keyboard_hw"]
+	path = keebdeck_keyboard_hw
+	url = https://github.com/solderparty/keebdeck_keyboard_hw.git
